@@ -29,9 +29,6 @@
     "url": "https://github.com/monkeydeveloper/indexgen-lib/issues"
   },
   "bundleDependencies": false,
-  "dependencies": {
-     mime": ">=1.4.1"
-  },
   "deprecated": true,
   "description": "indexgen core library decoupled from indexgen command line tool.",
   "devDependencies": {
