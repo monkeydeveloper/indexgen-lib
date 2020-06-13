@@ -30,7 +30,7 @@
   },
   "bundleDependencies": false,
   "dependencies": {
-    "mime": "~1.2"
+     mime": ">=1.4.1"
   },
   "deprecated": true,
   "description": "indexgen core library decoupled from indexgen command line tool.",
