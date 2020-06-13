@@ -1,0 +1,59 @@
+{
+  "_from": "indexgen-lib@*",
+  "_id": "indexgen-lib@0.3.0",
+  "_inBundle": false,
+  "_integrity": "sha1-MaZ9tCcm73UBZeL7y7rFpXkgaec=",
+  "_location": "/indexgen-lib",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "range",
+    "registry": true,
+    "raw": "indexgen-lib@*",
+    "name": "indexgen-lib",
+    "escapedName": "indexgen-lib",
+    "rawSpec": "*",
+    "saveSpec": null,
+    "fetchSpec": "*"
+  },
+  "_requiredBy": [
+    "/indexgen"
+  ],
+  "_resolved": "https://registry.npmjs.org/indexgen-lib/-/indexgen-lib-0.3.0.tgz",
+  "_shasum": "31a67db42726ef750165e2fbcbbac5a5792069e7",
+  "_spec": "indexgen-lib@*",
+  "_where": "C:\\Users\\klost\\indexgen\\node_modules\\indexgen",
+  "author": {
+    "name": "monkeydeveloper"
+  },
+  "bugs": {
+    "url": "https://github.com/monkeydeveloper/indexgen-lib/issues"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "mime": "~1.2"
+  },
+  "deprecated": false,
+  "description": "indexgen core library decoupled from indexgen command line tool.",
+  "devDependencies": {
+    "chai": "*",
+    "mocha": "*",
+    "mock-fs": "*",
+    "sinon": "~1"
+  },
+  "homepage": "https://github.com/monkeydeveloper/indexgen-lib",
+  "keywords": [
+    "require",
+    "index.js",
+    "index"
+  ],
+  "license": "BSD",
+  "name": "indexgen-lib",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/monkeydeveloper/indexgen-lib.git"
+  },
+  "scripts": {
+    "test": "mocha ./test/indexgen.spec.js"
+  },
+  "version": "0.3.0"
+}
