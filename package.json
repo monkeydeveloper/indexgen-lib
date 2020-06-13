@@ -52,5 +52,5 @@
   "scripts": {
     "test": "mocha ./test/indexgen.spec.js"
   },
-  "version": "0.3.0"
+  "version": "0.3.1"
 }
