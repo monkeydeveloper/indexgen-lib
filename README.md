@@ -1,3 +1,4 @@
+# PROJECT DEPRECATED/ABANDONEDPro
 #indexgen-lib
 
 [![NPM](https://nodei.co/npm/indexgen-lib.png?downloads=true)](https://nodei.co/npm/indexgen-lib/)
