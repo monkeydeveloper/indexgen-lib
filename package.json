@@ -32,7 +32,7 @@
   "dependencies": {
     "mime": "~1.2"
   },
-  "deprecated": false,
+  "deprecated": true,
   "description": "indexgen core library decoupled from indexgen command line tool.",
   "devDependencies": {
     "chai": "*",
